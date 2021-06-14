@@ -1,5 +1,5 @@
 # FlyTimeUygulamas-Mobil Programlamaya Giriş Ders Notları
 
-Youtube: https://www.youtube.com/channel/UC7gtZYjhotJMb15I8LMDRQA
+Konu Hakkında Video Bağlantısı: https://www.youtube.com/watch?v=orDE5zm0kPo
 
 Hazırlayan: M.Nisa İLGÜN https://github.com/nisailgunn
